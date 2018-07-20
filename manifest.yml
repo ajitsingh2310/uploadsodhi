@@ -1,0 +1,5 @@
+---
+applications:
+- name : uploaddemotest
+  random-route: true
+  memory: 256M
